@@ -1,0 +1,11 @@
+# How users should use this notebook within Planetary Computer Hub
+
+1. Download the notebook from GitHub called "LJordan_Final_Project".
+1. Open Planetary Computer Hub.
+1. Choose CPU - Python environment.
+1. Upload notebooks to Jupyter Lab.
+1. Double check all package versions.
+1. Execute notebook in Jupyter Lab.
+
+# Final Project report requirements:
+I have written the report throughout the Jupyter notebook. 
